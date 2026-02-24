@@ -1,0 +1,11 @@
+function App() {
+  return (
+    <div>
+      <h1>Web Tasarımı ve Programlama</h1>
+      <h2>LAB-1</h2>
+      <p>Ad Soyad: Mert Sarıtop</p>
+      <p>Öğrenci No: [220541075]</p>
+    </div>
+  )
+}
+export default App

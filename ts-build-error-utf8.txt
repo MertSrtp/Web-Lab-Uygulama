@@ -1,0 +1,6 @@
+﻿src/App.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Alert.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Button.tsx(2,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Card.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Input.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/UIKit.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
